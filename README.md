@@ -87,10 +87,10 @@ streamlit run app.py
 ## 📸 Project Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](images/dashboard.png)
+
 
 ### 🤖 Prediction Result
-![Result](images/result.png)
+![Result](dashboard.png)
 
 ### 📝 Input & Output
 ![Input Output](images/input-output.png)
