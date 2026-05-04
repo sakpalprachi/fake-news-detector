@@ -76,8 +76,21 @@ pip install -r requirements.txt
 2.Train model
 python train_model.py
 
+
 3. Run backend (FastAPI)
 uvicorn enhanced_api:app --reload
 
 4. Run frontend (Streamlit)
 streamlit run app.py
+
+
+## 📸 Project Screenshots
+
+### 🏠 Dashboard
+![Dashboard](images/dashboard.png)
+
+### 🤖 Prediction Result
+![Result](images/result.png)
+
+### 📝 Input & Output
+![Input Output](images/input-output.png)
