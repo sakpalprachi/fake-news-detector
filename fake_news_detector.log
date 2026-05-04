@@ -1,0 +1,21 @@
+2026-04-02 14:20:29,332 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-02 14:20:29,333 - INFO - Project setup completed successfully
+2026-04-02 14:20:45,507 - INFO - Please run: pip install -r requirements.txt
+2026-04-02 14:31:14,011 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-02 14:31:14,012 - INFO - Project setup completed successfully
+2026-04-02 14:40:04,246 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-02 14:40:04,247 - INFO - Project setup completed successfully
+2026-04-02 14:45:04,298 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-02 14:45:04,301 - INFO - Project setup completed successfully
+2026-04-02 14:45:16,537 - INFO - generated new fontManager
+2026-04-02 14:46:28,394 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-02 14:46:28,395 - INFO - Project setup completed successfully
+2026-04-02 14:48:25,036 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-02 14:48:25,037 - INFO - Project setup completed successfully
+2026-04-02 14:51:41,071 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-02 14:51:41,073 - INFO - Project setup completed successfully
+2026-04-02 14:52:50,503 - INFO - Streamlit app stopped
+2026-04-26 20:33:59,177 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-26 20:33:59,183 - INFO - Project setup completed successfully
+2026-04-26 20:34:05,638 - INFO - Sample datasets created: fake_news_sample.csv, real_news_sample.csv
+2026-04-26 20:34:05,653 - INFO - Project setup completed successfully

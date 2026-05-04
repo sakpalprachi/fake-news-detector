@@ -1,0 +1,40 @@
+{
+  "training_date": "2026-05-04T14:46:48.868485",
+  "individual_models": {
+    "logistic": {
+      "accuracy": 0.5,
+      "precision": 0.25,
+      "recall": 0.5,
+      "f1_score": 0.3333333333333333,
+      "cv_mean": 0.6666666666666666,
+      "cv_std": 0.23570226039551584
+    },
+    "naive_bayes": {
+      "accuracy": 0.5,
+      "precision": 0.25,
+      "recall": 0.5,
+      "f1_score": 0.3333333333333333,
+      "cv_mean": 0.8333333333333334,
+      "cv_std": 0.23570226039551584
+    },
+    "passive_aggressive": {
+      "accuracy": 0.5,
+      "precision": 0.25,
+      "recall": 0.5,
+      "f1_score": 0.3333333333333333,
+      "cv_mean": 0.8333333333333334,
+      "cv_std": 0.23570226039551584
+    },
+    "random_forest": {
+      "accuracy": 0.5,
+      "precision": 0.25,
+      "recall": 0.5,
+      "f1_score": 0.3333333333333333,
+      "cv_mean": 0.6666666666666666,
+      "cv_std": 0.23570226039551584
+    }
+  },
+  "ensemble_accuracy": 0.5,
+  "best_model": "logistic",
+  "dataset_size": 8
+}
